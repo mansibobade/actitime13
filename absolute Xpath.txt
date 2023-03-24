@@ -1,0 +1,56 @@
+mobile img of filpkart
+html/body/div/div/div[2]/div/div/div[2]/a/div[1]/div/img
+mobile text
+html/body/div/div/div[2]/div/div/div[2]/a/div[2]
+
+
+grocery img
+html/body/div/div/div[2]/div/div/div[1]/a/div[1]/div/img
+grocery text
+html/body/div/div/div[2]/div/div/div[1]/a/div[2]
+
+travel text
+html/body/div/div/div[2]/div/div/div[7]/a/div[2]
+travel img
+html/body/div/div/div[2]/div/div/div[7]/a/div/div/img
+
+fashion img
+html/body/div/div/div[2]/div/div/div[3]/a/div[1]/div/img
+fashion text
+html/body/div/div/div[2]/div/div/div[3]/a/div[2]
+
+electronic text
+html/body/div/div/div[2]/div/div/div[4]/a/div[2]
+electronic img
+html/body/div/div/div[2]/div/div/div[4]/a/div[1]/div/img
+
+home img
+html/body/div/div/div[2]/div/div/div[5]/a/div[1]/div/img
+home text
+html/body/div/div/div[2]/div/div/div[5]/a/div[2]
+
+appliance img
+html/body/div/div/div[2]/div/div/div[6]/a/div[1]/div/img
+appliance text
+html/body/div/div/div[2]/div/div/div[6]/a/div[2]
+
+top offer img
+html/body/div/div/div[2]/div/div/div[8]/a/div[1]/div/img
+top offer text
+html/body/div/div/div[2]/div/div/div[8]/a/div[2]
+
+Beauty, Toys & More img
+html/body/div/div/div[2]/div/div/div[9]/a/div[1]/div/img
+Beauty, Toys & More text
+html/body/div/div/div[2]/div/div/div[9]/a/div[2]
+
+
+
+
+
+
+
+
+
+
+
